@@ -1,0 +1,4 @@
+invManager
+==========
+
+Test inventory manager
